@@ -36,7 +36,7 @@ I love coding, coffee and music 🦄💻
 
 
 <p align="right">
-  <img src="https://giphy.com/gifs/rainy-anime-scenery-IuVFGSQZTd6TK" width="250">
+  <img src="https://github.com/VerNguyen2028/VerNguyen2028/blob/main/kotonoha%20no%20niwa%20summer%20GIF.gif" width="250">
 </p>
 
 
