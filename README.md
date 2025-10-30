@@ -22,7 +22,7 @@ I love coding, coffee and music 🦄💻
 
 ### 🔗 Connect with me:
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/vu.nguyen.659088?locale=vi_VN)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourname)
+[![Instagram](https://img.shields.io/badge/Instagram-ad1f41?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourname)
 [![Github](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VerNguyen2028)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fpiev-v%C5%A9-116670307/)
 [![Pinterest](https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white)](https://pinterest.com/yourname)
@@ -31,7 +31,7 @@ I love coding, coffee and music 🦄💻
 ---
 
 ### 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VerNguyen2028&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VerNguyen2028&layout=compact&theme=radical&bg_color=545454&title_color=eb6e34&text_color=fff)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=VerNguyen2028&show_icons=true&theme=radical)
 
 
