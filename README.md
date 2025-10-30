@@ -33,7 +33,7 @@ I love coding, coffee and music 🦄💻
 ### 📊 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VerNguyen2028&layout=compact&theme=radical)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=VerNguyen2028&show_icons=true&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=VerNguyen2028&theme=radical)](https://git.io/streak-stats)
+
 
 <p align="right">
   <img src="https://giphy.com/gifs/rainy-anime-scenery-IuVFGSQZTd6TK" width="250">
