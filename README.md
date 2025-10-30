@@ -31,8 +31,8 @@ I love coding, coffee and music 🦄💻
 ---
 
 ### 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VerNguyen2028&layout=compact&theme=radical&bg_color=545454&title_color=eb6e34&text_color=fff)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=VerNguyen2028&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VerNguyen2028&layout=compact&theme=radical&bg_color=3b3b3b&title_color=eb6e34&text_color=fff)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=VerNguyen2028&show_icons=true&theme=radical&bg_color=3b3b3b&title_color=eb6e34&text_color=fff)
 
 
 <p align="center">
