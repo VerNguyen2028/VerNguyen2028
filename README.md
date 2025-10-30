@@ -35,8 +35,8 @@ I love coding, coffee and music 🦄💻
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=VerNguyen2028&show_icons=true&theme=radical)
 
 
-<p align="right">
-  <img src="https://github.com/VerNguyen2028/VerNguyen2028/blob/main/kotonoha%20no%20niwa%20summer%20GIF.gif" width="250">
+<p align="center">
+  <img src="https://github.com/VerNguyen2028/VerNguyen2028/blob/main/kotonoha%20no%20niwa%20summer%20GIF.gif" width="400">
 </p>
 
 
